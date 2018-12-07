@@ -1,4 +1,4 @@
-/* @pjs preload="flag.png"; */
+/* @pjs preload="chocochipcookies.png"; */
 PImage img;
 
 void setup() {
